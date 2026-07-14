@@ -47,7 +47,6 @@ SQL Skills Demonstrated
 - - ALTER TABLE
 - - Common Table Expressions (CTE)
 - - ROW_NUMBER()
-- - CASE Statements
 - - TRIM()
 - - REPLACE()
 - - STR_TO_DATE()
