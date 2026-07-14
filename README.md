@@ -21,6 +21,8 @@ Dataset Information
 
 Dataset: World Layoffs
 
+Dataset from: https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 File: "world_layoffs.csv"
 
 The dataset contains information about layoffs across companies, industries, countries, and years.
